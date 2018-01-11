@@ -8,3 +8,8 @@ npm config set prefix "E:\node\npm-global"
 ```cmd
 npm config set cache "E:\node\npm-cache"
 ```
+
+// 设置淘宝镜像
+```cmd
+npm config set registry https://registry.npm.taobao.org
+```
